@@ -37,20 +37,20 @@ Record Keeping
 
 +++
 
-- Alice, Bob, Charlie and Diana are four peers in a network. 
-- Alice has 100 Units. This goes in a block at the top of the chain.
-- Alice pays Bob 50 Units, this goes into a new block, and the block is linked to the previous. This is a ledger of sorts.
-- How do you keep these records without a central third party?
+- Alice, Bob, Charlie and Diana are four peers in a network. |
+- Alice has 100 Units. This goes in a block at the top of the chain. |
+- Alice pays Bob 50 Units, this goes into a new block, and the block is linked to the previous. This is a ledger of sorts. |
+- How do you keep these records without a central third party? |
 
 +++
 
 Validation
 
-- Alice tries to pay Charlie Rs. 75 now. 
-- How does everyone know Alice doesn't have the money?
-- Bob and Charlie race to validate to see if this is a valid transaction. If it is, the fastest add it to the chain.
-- But whats to stop anyone say Bob, from passing a false validation?
-- The other nodes will know the transaction that was published and will instantly reject this.
+- Alice tries to pay Charlie Rs. 75 now. |
+- How does everyone know Alice doesn't have the money? | 
+- Bob and Charlie race to validate to see if this is a valid transaction. If it is, the fastest add it to the chain. |
+- But whats to stop anyone say Bob, from passing a false validation? | 
+- The other nodes will know the transaction that was published and will instantly reject this. |
 
 +++
 
