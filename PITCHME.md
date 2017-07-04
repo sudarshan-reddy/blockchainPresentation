@@ -58,6 +58,8 @@ Proof-of-work
 
 - ABCD
 
+---
+
 ## Minimum viable features for a basic blockchain
 
 <br>
