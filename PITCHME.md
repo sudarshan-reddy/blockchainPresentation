@@ -33,7 +33,9 @@ An ongoing chain of hash-based proof-of-work, forming a record that cannot be ch
 
 <br>
 
-Record Keeping
++++ 
+
+Who plays Banker in Monopoly?
 
 +++
 
@@ -44,19 +46,27 @@ Record Keeping
 
 +++
 
-Validation
+Why double spend when you can triple spend?
 
-- Alice tries to pay Charlie Rs. 75 now. |
++++
+
+- Alice tries to pay Charlie 75 Units now. |
 - How does everyone know Alice doesn't have the money? | 
 - Bob and Charlie race to validate to see if this is a valid transaction. If it is, the fastest add it to the chain. |
 - But whats to stop anyone say Bob, from passing a false validation? | 
 - The other nodes will know the transaction that was published and will instantly reject this. |
+- This is called Quorum consensus. Whatever the majority of the nodes deem valid is valid. |
 
 +++
 
-Proof-of-work
+Elizabeth creates 6 nodes in her name and starts churning out false transactions 
 
-- ABCD
++++
+ - The downside of quorum consensus : 51 % problem |
+ - What if every validation/entry comes with a cost? | 
+ - Computational power and time would act as a powerful deterrent | 
+ - But why would anyone want to validate expending power? | 
+ - Pay them |
 
 ---
 
