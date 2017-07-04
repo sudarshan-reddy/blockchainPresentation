@@ -78,11 +78,26 @@ The bare minimum any blockchain should have
 
 +++
 
- - Public Private Keys for the peers |
- - Distributed Storage |
- - Consensus |
- - Proof of Work |
- - Immutability |
+Public Key Infrastructure
+
++++
+
+- Every user needs a private-public key pair.
+- Private key signing is used to Authenticate origin/Peer.
+
++++
+
+Consensus 
+
++++
+
+Proof of Work 
+
++++
+
+Immutability 
+
++++
 
 ---
 
