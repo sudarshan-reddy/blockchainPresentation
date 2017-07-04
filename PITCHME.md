@@ -78,10 +78,21 @@ The bare minimum any blockchain should have
 
 +++
 
- - Public Private Keys for the peers
- - Distributed Storage
- - Consensus 
- - Proof of Work
- - Immutability
+ - Public Private Keys for the peers |
+ - Distributed Storage |
+ - Consensus |
+ - Proof of Work |
+ - Immutability |
+
+---
+
+## Exciting non financial uses for blockchains
+
++++
+
+ - Voting
+ - Supply Chain
+ - Ride Sharing
+ - Notary Services and government documentation
 
 ---
