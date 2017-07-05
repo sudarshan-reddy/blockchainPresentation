@@ -33,7 +33,7 @@
 +++ 
 
 <span style="font-family:Rockitt; font-weight:bold">
-Who plays Banker in Monopoly?
+Who plays Banker in Monopoly? |
 </span>
 <br>
 
