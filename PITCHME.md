@@ -39,10 +39,9 @@ Who plays Banker in Monopoly?
 
 +++
 
-- Alice, Bob, Charlie and Diana are four peers in a network. |
-- Alice has 100 Units. This goes in a block at the top of the chain. |
-- Alice pays Bob 50 Units, this goes into a new block, and the block is linked to the previous. This is a ledger of sorts. |
-- How do you keep these records without a central third party? |
+- Alice has 100 Units. This goes in a block at the top of the chain. 
+- Alice pays Bob 50 Units, this goes into a new block, and the block is linked to the previous. This is a ledger of sorts. 
+- How do you keep these records without a central third party? 
 
 +++
 
@@ -50,23 +49,18 @@ Why double spend when you can triple spend?
 
 +++
 
-- Alice tries to pay Charlie 75 Units now. |
-- How does everyone know Alice doesn't have the money? | 
-- Bob and Charlie race to validate to see if this is a valid transaction. If it is, the fastest add it to the chain. |
-- But whats to stop anyone say Bob, from passing a false validation? | 
-- The other nodes will know the transaction that was published and will instantly reject this. |
-- This is called Quorum consensus. Whatever the majority of the nodes deem valid is valid. |
+- What stops Alice from paying Charlie 75 Units now. 
+- Bob and Charlie race to validate to see if this is a valid transaction. If it is, the fastest add it to the chain. 
+- But whats to stop anyone say Bob, from passing a false validation?  
 
 +++
 
 Elizabeth creates 6 nodes in her name and starts churning out false transactions 
 
 +++
- - The downside of quorum consensus : 51 % problem |
- - What if every validation/entry comes with a cost? | 
- - Computational power and time would act as a powerful deterrent | 
- - But why would anyone want to validate expending power? | 
- - Pay them |
+ - 51 % problem 
+ - Validation/Entry cost: Computational power and time would act as a powerful deterrent  
+ - But why would anyone want to validate expending power?  
 
 ---
 
