@@ -52,11 +52,13 @@ Why double spend when you can triple spend?
 </span>
 <br>
 
-<span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;"> What stops Alice from paying Charlie 75 Units now. </span>
+<span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;">
+What stops Alice from paying Charlie 75 Units now.
 <br>
-<span class="fragment" data-fragment-index="2" style="font-family:Hattori Hanzo;"> Bob and Charlie race to validate to see if this is a valid transaction. If it is, the fastest add it to the chain. </span>
+Bob and Charlie race to validate to see if this is a valid transaction. If it is, the fastest add it to the chain.
 <br>
-<span class="fragment" data-fragment-index="3" style="font-family:Hattori Hanzo;"> But whats to stop anyone say Bob, from passing a false validation?</span>
+But whats to stop anyone say Bob, from passing a false validation?
+</span>
 
 +++
 
@@ -65,11 +67,13 @@ Elizabeth creates 6 nodes in her name and starts churning out false transactions
 </span>
 <br>
 
-<span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;"> 51 % problem</span>
+<span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;">
+51 % problem
 <br>
-<span class="fragment" data-fragment-index="2" style="font-family:Hattori Hanzo;"> Validation/Entry cost: Computational power and time would act as a powerful deterrent. </span>
+Validation/Entry cost: Computational power and time would act as a powerful deterrent.
 <br>
-<span class="fragment" data-fragment-index="3" style="font-family:Hattori Hanzo;"> But why would anyone want to validate expending power? </span> 
+But why would anyone want to validate expending power? 
+</span> 
 
 ---
 
