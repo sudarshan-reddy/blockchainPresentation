@@ -4,7 +4,9 @@
 ---
 
 ## Origin
-The Blockchain is a concept introduced by the anonymous Satoshi Nakamoto in his groundbreaking Bitcoin paper.
+<span style="font-family:Rockitt; font-weight:bold"> The Blockchain is a concept introduced by the anonymous Satoshi Nakamoto in his groundbreaking Bitcoin paper. </span>
+<span style="font-family:Helvetica Neue; font-weight:bold"> The Blockchain is a concept introduced by the anonymous Satoshi Nakamoto in his groundbreaking Bitcoin paper. </span>
+
 
 ---
 
@@ -16,10 +18,10 @@ What the Blockchain tries to provide
 
 +++
 
-- Decentralization |
-- Immutability     |
-- Validitation     |
-- Incentive        | 
+ Decentralization |
+ Immutability     |
+ Validitation     |
+ Incentive        | 
 
 ---
 
