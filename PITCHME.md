@@ -37,11 +37,13 @@ Who plays Banker in Monopoly?
 </span>
 <br>
 
-<span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;"> Alice has 100 Units. This goes in a block at the top of the chain.</span>
+<span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;">
+Alice has 100 Units. This goes in a block at the top of the chain
 <br>
-<span class="fragment" data-fragment-index="2" style="font-family:Hattori Hanzo;"> Alice pays Bob 50 Units, this goes into a new block, and the block is linked to the previous. This is a ledger of sorts. </span>
+Alice pays Bob 50 Units, this goes into a new block, and the block is linked to the previous. This is a ledger of sorts.
 <br>
-<span class="fragment" data-fragment-index="3" style="font-family:Hattori Hanzo;"> How do you keep these records without a central third party?</span>
+How do you keep these records without a central third party?
+</span>
 
 +++
 
@@ -75,13 +77,14 @@ Elizabeth creates 6 nodes in her name and starts churning out false transactions
 
 <br>
 
-<span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;"> The bare minimum any blockchain should have </span>
+<span style="font-family:Hattori Hanzo;"> The bare minimum any blockchain should have </span>
 
 +++
 
 <span style="font-family:Rockitt; font-weight:bold">
 Public Key Infrastructure
 </span> 
+<br>
 <span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;">Every user needs a private-public key pair.</span> 
 <br>
 <span class="fragment" data-fragment-index="2" style="font-family:Hattori Hanzo;">Private key signing is used to Authenticate origin/Peer. </span>
@@ -91,6 +94,7 @@ Public Key Infrastructure
 <span style="font-family:Rockitt; font-weight:bold">
 Consensus 
 </span>
+<br>
 <span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;">Why 2/3PC or Paxos wont work </span>
 <br>
 <span class="fragment" data-fragment-index="2" style="font-family:Hattori Hanzo;">What do you drop in CAP? </span>
@@ -100,6 +104,7 @@ Consensus
 <span style="font-family:Rockitt; font-weight:bold">
 Proof of Work  
 </span>
+<br>
 <span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;">Guard against Sybill Attacks </span>
 <br>
 <span class="fragment" data-fragment-index="2" style="font-family:Hattori Hanzo;">Make voting expensive </span>
@@ -108,7 +113,9 @@ Proof of Work
 
 +++
 
+<span style="font-family:Rockitt; font-weight:bold">
 Immutability 
+</span>
 
 <span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;">Merkle Trees </span>
 
@@ -117,8 +124,6 @@ Immutability
 <span style="font-family:Rockitt; font-weight:bold">
 ## Possible non financial uses for blockchains
 </span>  
-
-+++
 
 <span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;">Voting</span>
 <br>
@@ -129,3 +134,7 @@ Immutability
 <span class="fragment" data-fragment-index="4" style="font-family:Hattori Hanzo;">Notary Services and government documentation</span>
 
 ---
+
+<span style="font-family:Rockitt; font-weight:bold">
+## Thank you
+</span>
