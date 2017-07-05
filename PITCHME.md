@@ -38,11 +38,11 @@ Who plays Banker in Monopoly?
 <br>
 
 <span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;">
-Alice has 100 Units. This goes in a block at the top of the chain
+- Alice has 100 Units. This goes in a block at the top of the chain
 <br>
-Alice pays Bob 50 Units, this goes into a new block, and the block is linked to the previous. This is a ledger of sorts.
+- Alice pays Bob 50 Units, this goes into a new block, and the block is linked to the previous. This is a ledger of sorts.
 <br>
-How do you keep these records without a central third party?
+- How do you keep these records without a central third party?
 </span>
 
 +++
@@ -53,11 +53,11 @@ Why double spend when you can triple spend?
 <br>
 
 <span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;">
-What stops Alice from paying Charlie 75 Units now.
+- What stops Alice from paying Charlie 75 Units now.
 <br>
-Bob and Charlie race to validate to see if this is a valid transaction. If it is, the fastest add it to the chain.
+- Bob and Charlie race to validate to see if this is a valid transaction. If it is, the fastest add it to the chain.
 <br>
-But whats to stop anyone say Bob, from passing a false validation?
+- But whats to stop anyone say Bob, from passing a false validation?
 </span>
 
 +++
@@ -68,11 +68,11 @@ Elizabeth creates 6 nodes in her name and starts churning out false transactions
 <br>
 
 <span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;">
-51 % problem
+- 51 % problem
 <br>
-Validation/Entry cost: Computational power and time would act as a powerful deterrent.
+- Validation/Entry cost: Computational power and time would act as a powerful deterrent.
 <br>
-But why would anyone want to validate expending power? 
+- But why would anyone want to validate expending power? 
 </span> 
 
 ---
