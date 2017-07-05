@@ -91,7 +91,7 @@ Consensus
 +++
 
 Proof of Work  
-- Guard against Sybil Attacks |
+- Guard against Sybill Attacks |
 - Make voting expensive | 
 - Hashcash |
 
