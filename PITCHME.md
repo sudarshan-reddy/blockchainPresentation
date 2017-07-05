@@ -82,8 +82,9 @@ Public Key Infrastructure
 
 +++
 
-- Every user needs a private-public key pair.
-- Private key signing is used to Authenticate origin/Peer.
+Public Key Infrastructure
+- Every user needs a private-public key pair. |
+- Private key signing is used to Authenticate origin/Peer. |
 
 +++
 
@@ -91,13 +92,28 @@ Consensus
 
 +++
 
+Consensus 
+- Why 2/3PC or Paxos wont work | 
+- What do you drop in CAP? |
+
++++
+
 Proof of Work 
+
++++
+
+Proof of Work  |
+- Guard against Sybil Attacks |
+- Make voting expensive | 
+- Hashcash |
 
 +++
 
 Immutability 
 
 +++
+
+- Merkle Trees | 
 
 ---
 
