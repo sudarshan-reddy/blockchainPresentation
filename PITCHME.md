@@ -10,12 +10,10 @@
 
 ## <span style="font-family:Rockitt; font-weight:bold"> What the Blockchain tries to provide </span>
 
-<span style="font-family:Hattori Hanzo;">
- Decentralization |
- Immutability     |
- Validitation     |
- Incentive        | 
-</span>
+<span style="font-family:Hattori Hanzo;">Decentralization </span> |
+<span style="font-family:Hattori Hanzo;">Immutability</span> |
+<span style="font-family:Hattori Hanzo;">Validation</span> |
+<span style="font-family:Hattori Hanzo;">Incentive</span> | 
 
 ---
 
