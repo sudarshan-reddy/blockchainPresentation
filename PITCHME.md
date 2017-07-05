@@ -71,45 +71,61 @@ Elizabeth creates 6 nodes in her name and starts churning out false transactions
 
 ---
 
-## Minimum viable features for a basic blockchain
+## <span style="font-family:Rockitt; font-weight:bold"> Minimum viable features for a basic blockchain </span>
 
 <br>
 
-The bare minimum any blockchain should have
+<span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;"> The bare minimum any blockchain should have </span>
 
 +++
 
+<span style="font-family:Rockitt; font-weight:bold">
 Public Key Infrastructure
-- Every user needs a private-public key pair. |
-- Private key signing is used to Authenticate origin/Peer. |
+</span> 
+<span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;">Every user needs a private-public key pair.</span> 
+<br>
+<span class="fragment" data-fragment-index="2" style="font-family:Hattori Hanzo;">Private key signing is used to Authenticate origin/Peer. </span>
 
 +++
 
+<span style="font-family:Rockitt; font-weight:bold">
 Consensus 
-- Why 2/3PC or Paxos wont work | 
-- What do you drop in CAP? |
+</span>
+<span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;">Why 2/3PC or Paxos wont work </span>
+<br>
+<span class="fragment" data-fragment-index="2" style="font-family:Hattori Hanzo;">What do you drop in CAP? </span>
 
 +++
 
+<span style="font-family:Rockitt; font-weight:bold">
 Proof of Work  
-- Guard against Sybill Attacks |
-- Make voting expensive | 
-- Hashcash |
+</span>
+<span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;">Guard against Sybill Attacks </span>
+<br>
+<span class="fragment" data-fragment-index="2" style="font-family:Hattori Hanzo;">Make voting expensive </span>
+<br>
+<span class="fragment" data-fragment-index="3" style="font-family:Hattori Hanzo;">Hashcash </span>
 
 +++
 
 Immutability 
-- Merkle Trees | 
+
+<span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;">Merkle Trees </span>
 
 ---
 
-## Exciting non financial uses for blockchains
+<span style="font-family:Rockitt; font-weight:bold">
+## Possible non financial uses for blockchains
+</span>  
 
 +++
 
- - Voting
- - Supply Chain
- - Ride Sharing
- - Notary Services and government documentation
+<span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;">Voting</span>
+<br>
+<span class="fragment" data-fragment-index="2" style="font-family:Hattori Hanzo;">Supply Chain</span>
+<br>
+<span class="fragment" data-fragment-index="3" style="font-family:Hattori Hanzo;">Ride Sharing</span>
+<br>
+<span class="fragment" data-fragment-index="4" style="font-family:Hattori Hanzo;">Notary Services and government documentation</span>
 
 ---
