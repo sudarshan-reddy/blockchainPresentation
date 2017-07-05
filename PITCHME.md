@@ -33,16 +33,16 @@
 +++ 
 
 <span style="font-family:Rockitt; font-weight:bold">
-Who plays Banker in Monopoly? |
+Who plays Banker in Monopoly? 
 </span>
 <br>
 
 <span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;">
-- Alice has 100 Units. This goes in a block at the top of the chain
+--> Alice has 100 Units. This goes in a block at the top of the chain
 <br>
-- Alice pays Bob 50 Units, this goes into a new block, and the block is linked to the previous. This is a ledger of sorts.
+--> Alice pays Bob 50 Units, this goes into a new block, and the block is linked to the previous. This is a ledger of sorts.
 <br>
-- How do you keep these records without a central third party?
+--> How do you keep these records without a central third party?
 </span>
 
 +++
