@@ -79,16 +79,8 @@ The bare minimum any blockchain should have
 +++
 
 Public Key Infrastructure
-
-+++
-
-Public Key Infrastructure
 - Every user needs a private-public key pair. |
 - Private key signing is used to Authenticate origin/Peer. |
-
-+++
-
-Consensus 
 
 +++
 
@@ -98,11 +90,7 @@ Consensus
 
 +++
 
-Proof of Work 
-
-+++
-
-Proof of Work  |
+Proof of Work  
 - Guard against Sybil Attacks |
 - Make voting expensive | 
 - Hashcash |
@@ -110,9 +98,6 @@ Proof of Work  |
 +++
 
 Immutability 
-
-+++
-
 - Merkle Trees | 
 
 ---
