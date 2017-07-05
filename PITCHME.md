@@ -10,10 +10,10 @@
 
 ## <span style="font-family:Rockitt; font-weight:bold"> What the Blockchain tries to provide </span>
 
-- <span class="fragment" data-fragment-index="1" data-autoslide="2000" style="font-family:Hattori Hanzo;">Decentralization </span> 
-- <span class="fragment" data-fragment-index="2" data-autoslide="2000" style="font-family:Hattori Hanzo;">Immutability</span> 
-- <span class="fragment" data-fragment-index="3" data-autoslide="2000" style="font-family:Hattori Hanzo;">Validation</span> 
-- <span class="fragment" data-fragment-index="4" data-autoslide="2000" style="font-family:Hattori Hanzo;">Incentive</span>  
+<span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;">Decentralization </span> 
+<span class="fragment" data-fragment-index="2" style="font-family:Hattori Hanzo;">Immutability</span> 
+<span class="fragment" data-fragment-index="3" style="font-family:Hattori Hanzo;">Validation</span> 
+<span class="fragment" data-fragment-index="4" style="font-family:Hattori Hanzo;">Incentive</span>  
 
 ---
 
