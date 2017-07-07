@@ -111,7 +111,7 @@ Proof of Work
 <br>
 <span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;">Guard against Sybill Attacks </span>
 <br>
-<span class="fragment" data-fragment-index="2" style="font-family:Hattori Hanzo;">Make voting expensive </span>
+<span class="fragment" data-fragment-index="2" style="font-family:Hattori Hanzo;">Make validation expensive </span>
 <br>
 <span class="fragment" data-fragment-index="3" style="font-family:Hattori Hanzo;">Hashcash </span>
 
