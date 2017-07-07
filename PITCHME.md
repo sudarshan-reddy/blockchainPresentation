@@ -138,6 +138,7 @@ Immutability
 </span>
 
 <span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;">Merkle Trees </span>
+<br>
 <span class="fragment" data-fragment-index="2" style="font-family:Hattori Hanzo;">Linked "chains" </span>
 
 ---
