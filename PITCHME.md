@@ -114,6 +114,10 @@ Proof of Work
 <span class="fragment" data-fragment-index="2" style="font-family:Hattori Hanzo;">Make validation expensive </span>
 <br>
 <span class="fragment" data-fragment-index="3" style="font-family:Hattori Hanzo;">Hashcash </span>
+<br>
++++
+
+https://image.slidesharecdn.com/class7-post-150921141838-lva1-app6892/95/the-blockchain-28-638.jpg?cb=1442845220
 
 +++
 
