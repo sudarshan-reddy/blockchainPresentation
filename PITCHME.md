@@ -117,7 +117,7 @@ Proof of Work
 <br>
 +++
 
-https://image.slidesharecdn.com/class7-post-150921141838-lva1-app6892/95/the-blockchain-28-638.jpg?cb=1442845220
+![Hashcash](https://image.slidesharecdn.com/class7-post-150921141838-lva1-app6892/95/the-blockchain-28-638.jpg?cb=1442845220)
 
 +++
 
