@@ -109,7 +109,7 @@ Consensus
 Proof of Work  
 </span>
 <br>
-<span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;">Guard against Sybill Attacks </span>
+<span class="fragment" data-fragment-index="1" style="font-family:Hattori Hanzo;">Guard against Sybil Attacks </span>
 <br>
 <span class="fragment" data-fragment-index="2" style="font-family:Hattori Hanzo;">Make validation expensive </span>
 <br>
